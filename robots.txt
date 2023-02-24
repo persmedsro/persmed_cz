@@ -1,0 +1,4 @@
+Sitemap: https://www.persmed.cz/sitemapindex.xml
+
+User-Agent: *
+Host: www.persmed.cz
